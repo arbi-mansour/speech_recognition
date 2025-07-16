@@ -1,0 +1,4 @@
+Hello! How can I help you?
+My name is ChatBot.
+I can help answer simple questions.
+Please ask me anything about your project.
